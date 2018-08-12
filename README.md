@@ -1,29 +1,24 @@
-# This is a large heading
+# Sylvia Lods Joly
 
-## This is a smaller heading
+## Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I was borned and raised in Dreux, France. When I was 12, my family and I moved to Canary Island. Then I have lived in Toulouce, Beijing, Benicassim and now Madrid.
 
-- This is
-- an unordered
-- list
+### Hobbies
 
-1. This is
-2. an ordered
-3. list
+This are my three favourite hobbies:
 
-Here is `some code` in the middle of a sentence.
+- Travel
+- Yoga
+- Dance
 
-```
-This is
-a block
-of code
-```
+###  Food
 
-Here is how you make [a link](https://www.wikipedia.org/).
+I love the following type of food in this order:
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+1. Mediterranean food
+2. Asian food
+3. South Amercian food
+
+The best way to know what I work for is checking my [linkedin](https://wwww.linkedin.com/in/sylvialods)
 
