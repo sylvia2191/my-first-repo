@@ -1,0 +1,23 @@
+commit 4a08d00878a78b93c723cc485361ae51df8f508c
+Author: sylvia2191 <sylvia2191@hotmail.com>
+Date:   Sun Aug 12 11:16:59 2018 +0000
+
+    saved one file
+
+commit cebc752384d3c44c6750f8318337b01720a60021
+Author: sylvia2191 <sylvia2191@hotmail.com>
+Date:   Thu Aug 9 20:07:20 2018 +0000
+
+    edited gitignore
+
+commit a31221f07bf1621d70ff91575c98671737238d0f
+Author: sylvia2191 <sylvia2191@hotmail.com>
+Date:   Thu Aug 9 20:01:19 2018 +0000
+
+    added gitignore
+
+commit 946dfba2ca9a59b55877fb41b03af51d6a796e68
+Author: sylvia2191 <sylvia2191@hotmail.com>
+Date:   Tue Aug 7 19:15:46 2018 +0000
+
+    added readme.txt
